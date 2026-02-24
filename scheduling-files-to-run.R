@@ -1,3 +1,6 @@
+# install cronR like this:
+# install.packages("pak")
+# pak::pkg_install("dkahle/cronR")
 library("cronR")
 
 # look at the functions in the package
